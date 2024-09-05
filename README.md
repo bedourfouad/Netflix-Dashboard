@@ -65,7 +65,7 @@ The Netflix Dashboard visualizes key metrics from the platform's global content.
   
 ## Page 4: Top Titles & Popularity<a name="page-4-top-titles-popularity"></a>
 
-![Page4](Dashboard_Images/4.png)
+![Screenshot 2024-09-05 164206](https://github.com/user-attachments/assets/51ea2eb3-3e13-472d-a064-feca417396a6)
 
 ### Features
 1. **Top Titles Section:** Displays the top-rated and most voted titles across the Netflix library.
