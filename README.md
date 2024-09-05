@@ -52,7 +52,7 @@ The Netflix Dashboard visualizes key metrics from the platform's global content.
 
 ## Page 3: Genre & Ratings Analysis<a name="page-3-genre-ratings-analysis"></a>
 
-![Page3](Dashboard_Images/3.png)
+![Screenshot 2024-09-05 163945](https://github.com/user-attachments/assets/86723531-c38f-42f0-8d3e-5d36aed0b488)
 
 ### Features
 1. **Bar Chart:** Genre breakdown with corresponding average ratings.
