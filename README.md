@@ -18,11 +18,7 @@ Once the dataset is loaded, open the Power BI file and begin interacting with th
 
 ## Dashboard Overview<a name="dashboard-overview"></a>
 
-![General Overview](Dashboard_Images/1.png)
-
 The Netflix Dashboard visualizes key metrics from the platform's global content. It consists of four pages, each focusing on specific aspects such as content ratings, genre breakdowns, geographic trends, and popular titles.
-
-- *Link to Dashboard in Action:* [Explore the Dashboard](https://www.novypro.com/project/netflix-dashboard)
 
 ## Page 1: General Overview<a name="page-1-overview"></a>
 
