@@ -26,7 +26,7 @@ The Netflix Dashboard visualizes key metrics from the platform's global content.
 
 ## Page 1: General Overview<a name="page-1-overview"></a>
 
-![Page1](Dashboard_Images/1.png)
+![Page1](Dashboard_Images/![Dashboard](https://github.com/user-attachments/assets/f36d53ae-5eb6-41e0-92c7-23cbaa821ee9)
 
 ### Features
 
