@@ -27,7 +27,7 @@ The Netflix Dashboard visualizes key metrics from the platform's global content.
 ### Features
 
 1. **Bar Chart:** Distribution of average ratings by genre, with number of titles.
-2. **KPIs:** Displaying total number of movies, average rating, and total votes.
+2. **KPIs:** Displaying the total number of movies, average rating, and total votes.
 3. **Top-Rated Titles Section:** Featuring the most popular movies and TV shows.
 4. **Country-wise Data Table:** Breaking down the number of titles, average rating, and votes per country.
 
@@ -40,7 +40,7 @@ The Netflix Dashboard visualizes key metrics from the platform's global content.
 
 ## Page 2: Geographic Insights<a name="page-2-geographic-insights"></a>
 
-![Page2](Dashboard_Images/2.png)
+![Map ](https://github.com/user-attachments/assets/884554d3-fe14-45cb-b9bb-acd62971c7e4)
 
 ### Features
 1. **Map Visualization:** A global map showing the distribution of Netflix titles by country.
